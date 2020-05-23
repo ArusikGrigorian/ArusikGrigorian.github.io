@@ -205,17 +205,28 @@ body {
 	font-family: 'Courgette', cursive;
 	background-image: url(./images/portfolio.jfif);
 	background-repeat: no-repeat;
-	background-position: bottom center; 
-	opacity: 
+	background-position: center center; 
 	height: 100vh;
 	width: 100%;
 	margin-top: 30px;
 	position: relative;
+	opacity: 60%;
 }
 
 #tetris, #slider, #toDo {
 	background-color: #ffffff;
-	height: 300px;
-	width: 200px;
-	position: absolute;
+	height: 350px;
+	width: 300px;
+}
+
+#tetris {
+	background-image: url();
+}
+
+#slider {
+	background-image: url();
+}
+
+#toDo {
+	background-image: url();
 }
