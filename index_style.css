@@ -210,7 +210,7 @@ body {
 	width: 100%;
 	margin-top: 30px;
 	position: relative;
-	opacity: 60%;
+	opacity: 50%;
 }
 
 #tetris, #slider, #toDo {
@@ -220,13 +220,13 @@ body {
 }
 
 #tetris {
-	background-image: url();
+	background-image: url(./images/ttrs.jfif);
 }
 
 #slider {
-	background-image: url();
+	background-image: url(./images/slidebar.jpg);
 }
 
 #toDo {
-	background-image: url();
+	background-image: url(./images/todoapp.jpg);
 }
