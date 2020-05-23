@@ -189,3 +189,14 @@ body {
 .git {
 	background-image: url(./images/git-logo.png);
 }
+
+#try {
+	font-family: 'Courgette', cursive;
+	background-image: url(./images/portfolio.jpg);
+	background-repeat: no-repeat;
+	background-position: center center; 
+	height: 100vh;
+	width: 100%;
+	margin-top: 30px;
+	position: relative;
+}
